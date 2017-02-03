@@ -1,0 +1,19 @@
+{
+  "name": "d3_in_action_2",
+  "version": "1.0.0",
+  "description": "[D3.js in Action 2nd Edition](https://www.manning.com/books/d3js-in-action-second-edition) code and examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeeks/d3_in_action_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emeeks/d3_in_action_2/issues"
+  },
+  "homepage": "https://github.com/emeeks/d3_in_action_2#readme"
+}
